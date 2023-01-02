@@ -473,6 +473,17 @@ const definitions: Record<LanguageKey, LanguageDefinition> = {
         previewFilter: null,
         monacoDisassembly: null,
     },
+    qbe: {
+        name: 'QBE IR',
+        monaco: '',
+        extensions: ['.ssa'],
+        alias: [],
+        logoUrl: 'qbe.png',
+        logoUrlDark: null,
+        formatter: null,
+        previewFilter: null,
+        monacoDisassembly: null,
+    },
     racket: {
         name: 'Racket',
         monaco: 'scheme',
