@@ -1,3 +1,7 @@
+⚠️**Note**⚠️: This is a fork with experimental support for [QBE IR](https://c9x.me/compile/) and [Hare](https://harelang.org).
+
+----
+
 [![Build Status](https://github.com/compiler-explorer/compiler-explorer/workflows/Compiler%20Explorer/badge.svg)](https://github.com/compiler-explorer/compiler-explorer/actions?query=workflow%3A%22Compiler+Explorer%22)
 [![codecov](https://codecov.io/gh/compiler-explorer/compiler-explorer/branch/main/graph/badge.svg)](https://codecov.io/gh/compiler-explorer/compiler-explorer)
 
